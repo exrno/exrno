@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I'm exrno! 👋
+## I am a front end dev
 <!--
 **exrno/exrno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
